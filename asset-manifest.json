@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/szallas-jwt/static/css/main.b284f140.css",
+    "main.js": "/szallas-jwt/static/js/main.e5b308d8.js",
+    "static/media/bootstrap-icons.woff?": "/szallas-jwt/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/szallas-jwt/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/szallas-jwt/index.html",
+    "main.b284f140.css.map": "/szallas-jwt/static/css/main.b284f140.css.map",
+    "main.e5b308d8.js.map": "/szallas-jwt/static/js/main.e5b308d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b284f140.css",
+    "static/js/main.e5b308d8.js"
+  ]
+}
